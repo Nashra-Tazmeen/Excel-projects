@@ -1,11 +1,14 @@
 successfully created an interactive dashboard in Microsoft Excel tailored for analyzing bike sales data. 
 This dynamic tool offers a comprehensive view of bike sales metrics, allowing for data exploration and informed decision-making.
+
+
 Benefits:
 
 Empowers data-driven decisions in the bike sales domain.
 Provides a comprehensive view of sales performance.
 Simplifies data exploration and trend analysis.
 Enhances reporting and presentation capabilities.
+
 Use Cases:
 
 Monitoring bike sales by product category.
